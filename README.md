@@ -3,9 +3,13 @@ I used the Jypter Notebook to wrangle data for further data analysis.
 
 ### Files
 `2 ANUPoll2018Data_CSV_01428.csv`: Dataset of interest
+
 `ANU_poll_data_wrangling.ipynb`: Script used to clean up data
+
 `rattle_version_d.csv`: Dataset for cohort D. Used for data analysis on Rattle. 
+
 `rattle_version_e.csv`: Dataset for cohort E. Used for data analysis on Rattle. 
+
 `original_rattle.csv`: Backup dataset
 
 ### References
